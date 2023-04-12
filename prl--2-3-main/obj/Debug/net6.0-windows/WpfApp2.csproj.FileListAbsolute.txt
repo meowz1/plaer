@@ -1,0 +1,48 @@
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\App.g.cs
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.lref
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.exe
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.deps.json
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.dll
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\bin\Debug\net6.0-windows\WpfApp2.pdb
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.g.resources
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.dll
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+D:\Project\C шарп\2-й семестр\prl-3\WpfApp2\obj\Debug\net6.0-windows\ref\WpfApp2.dll
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\bin\Debug\net6.0-windows\WpfApp2.exe
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\bin\Debug\net6.0-windows\WpfApp2.deps.json
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\bin\Debug\net6.0-windows\WpfApp2.runtimeconfig.json
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\bin\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\bin\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.csproj.AssemblyReference.cache
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.cache
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2_MarkupCompile.lref
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.g.resources
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfoInputs.cache
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.AssemblyInfo.cs
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.csproj.CopyComplete
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.dll
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\refint\WpfApp2.dll
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.pdb
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
+C:\Users\Overkliker\Desktop\prl--2-3-main\prl--2-3-main\obj\Debug\net6.0-windows\ref\WpfApp2.dll

@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="427" Width="480">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="17*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Back" Content="Назад" Grid.Column="0" Grid.Row="3" Click="Back_Click" IsEnabled="False"/>
+        <Button x:Name="Start" Content="Старт" Width="30" HorizontalAlignment="Left" Grid.Column="1" Grid.Row="3" Click="Start_Click"/>
+        <Button x:Name="Stop" Content="Стоп" Width="30" HorizontalAlignment="Right" Grid.Column="1" Grid.Row="3" Click="Stop_Click" />
+        <Button x:Name="Next" Content="Вперед" Grid.Row="3" Grid.Column="2" Click="Next_Click" IsEnabled="False" />
+        <Button x:Name="Repeate" Content="Повтор" Grid.Column="3" Grid.Row="3" Click="Repeate_Click" IsEnabled="False" Background="Red" />
+        <Button x:Name="Random" Content="Рандом" Grid.Column="4" Grid.Row="3" Click="Random_Click"  IsEnabled="False" Background="#FFFF0404"  />
+        <Button x:Name="ButtonChooseDirectories" Content="Выберите папку с музыкой" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="7" Click="ButtonChooseDirectories_Click" Background="White" FontSize="16" FontFamily="Segoe UI Light" Foreground="Black"/>
+        <ListBox x:Name="ListBoxMusic" Grid.Column="0" Grid.ColumnSpan="7" Grid.Row="1" SelectionChanged="ListBoxMusic_SelectionChanged"/>
+        <Slider x:Name="Sound" Grid.Column="5" Grid.Row="3" Margin="5,4,0,0" SmallChange="0" Value="0" ValueChanged="Sound_ValueChanged" Maximum="10" LargeChange="1" />
+        <Slider x:Name="SliderTimeMusic" Grid.Row="2" Grid.ColumnSpan="5" Margin="2,7,3,0" ValueChanged="SliderTimeMusic_ValueChanged" Grid.Column="1"/>
+        <Label x:Name="ValueSoundLabel" Grid.Column="6" Grid.Row="3" Content="5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" />
+        <Label x:Name="NowTimeMedia" Content="00:00" Grid.Row="2" Grid.Column="0"/>
+        <Label x:Name="AllTimeMedia" Content="00:00" Grid.Row="2" Grid.Column="6"/>
+    </Grid>
+</Window>
